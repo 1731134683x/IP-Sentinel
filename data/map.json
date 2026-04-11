@@ -29,6 +29,20 @@
           ]
         }
       ]
+    },
+    {
+      "id": "HK",
+      "name": "Hong Kong (香港)",
+      "keyword_file": "kw_HK.txt",
+      "states": [
+        {
+          "id": "HK",
+          "name": "Hong Kong",
+          "cities": [
+            { "id": "Hong_Kong", "name": "Hong Kong (香港)" }
+          ]
+        }
+      ]
     }
   ]
 }

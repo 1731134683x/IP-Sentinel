@@ -1,0 +1,20 @@
+{
+  "region_name": "香港 (Hong Kong)",
+  "google_module": {
+    "base_lat": 22.3193,
+    "base_lon": 114.1694,
+    "lang_params": "hl=zh-HK&gl=HK",
+    "valid_url_suffix": "com.hk"
+  },
+  "trust_module": {
+    "white_urls": [
+      "https://zh.wikipedia.org/wiki/Special:Random",
+      "https://www.hk.apple.com/",
+      "https://www.aastocks.com/",
+      "https://www.meteo.gov.hk/",
+      "https://www.scmp.com/",
+      "https://www.rthk.hk/",
+      "https://www.amazon.com.hk/"
+    ]
+  }
+}
